@@ -125,3 +125,22 @@ schemas/                — JSON-схемы входа/выхода
 data/                   — вакансии (HH API JSON)
 Последние файлы/        — CSV резюме + SA2 пример
 ```
+<img width="1894" height="721" alt="image" src="https://github.com/user-attachments/assets/e6aa74aa-07f8-4e1a-ab68-417ddc9e15a2" />
+
+<img width="1904" height="940" alt="image" src="https://github.com/user-attachments/assets/bc895e1e-c8ad-45e6-9d7e-a3e030f9ac1f" />
+
+<img width="1880" height="822" alt="image" src="https://github.com/user-attachments/assets/8b2a6f06-f602-411f-9d0e-dd63fbc7a12f" />
+
+<img width="1899" height="928" alt="image" src="https://github.com/user-attachments/assets/51d50936-9b9e-43a7-a2ae-d675fcdab4fd" />
+
+<img width="1899" height="894" alt="image" src="https://github.com/user-attachments/assets/8f6aa2f4-0f3c-4cd4-af22-89713bbf0d78" />
+
+<img width="745" height="489" alt="image" src="https://github.com/user-attachments/assets/df3296d7-9be5-48b2-a383-2a0e74f7fa8d" />
+
+<img width="1897" height="932" alt="image" src="https://github.com/user-attachments/assets/5ae546e9-ed81-4a3d-831a-c73cdc01e049" />
+
+
+
+
+
+
