@@ -1,0 +1,67 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Resume Ranker Output",
+  "type": "object",
+  "properties": {
+    "meta": {
+      "type": "object",
+      "properties": {
+        "model_version": { "type": "string" },
+        "seed": { "type": "integer" },
+        "execution_time_sec": { "type": "number" },
+        "resumes_processed": { "type": "integer" },
+        "vacancy_title": { "type": "string" },
+        "batch_warnings": { "type": "array", "items": { "type": "string" } }
+      },
+      "required": ["model_version", "seed", "execution_time_sec", "resumes_processed"]
+    },
+    "ranked_list": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "resume_id": { "type": "string" },
+          "score": { "type": "number", "minimum": 0, "maximum": 1 },
+          "confidence": { "type": "number", "minimum": 0, "maximum": 1 },
+          "explanation": {
+            "type": "object",
+            "properties": {
+              "total_score": { "type": "number" },
+              "components": {
+                "type": "object",
+                "properties": {
+                  "semantic": { "$ref": "#/$defs/component" },
+                  "skills": { "$ref": "#/$defs/component" },
+                  "experience": { "$ref": "#/$defs/component" },
+                  "position_fit": { "$ref": "#/$defs/component" },
+                  "salary_fit": { "$ref": "#/$defs/component" },
+                  "work_format": { "$ref": "#/$defs/component" },
+                  "education": { "$ref": "#/$defs/component" },
+                  "location": { "$ref": "#/$defs/component" }
+                },
+                "required": ["semantic", "skills", "experience", "position_fit", "salary_fit", "work_format", "education", "location"],
+                "additionalProperties": false
+              }
+            },
+            "required": ["total_score", "components"]
+          },
+          "warnings": { "type": "array", "items": { "type": "string" } }
+        },
+        "required": ["resume_id", "score", "confidence", "explanation"]
+      }
+    }
+  },
+  "required": ["meta", "ranked_list"],
+  "$defs": {
+    "component": {
+      "type": "object",
+      "properties": {
+        "value": { "type": "number", "minimum": 0, "maximum": 1 },
+        "weight": { "type": "number" },
+        "contribution": { "type": "number" },
+        "explanation": { "type": "string" }
+      },
+      "required": ["value", "weight", "contribution"]
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "103892145",
+  "name": "Java Backend Developer (Middle)",
+  "alternate_url": "https://hh.ru/vacancy/103892145",
+  "employer": {
+    "id": "78638",
+    "name": "Тинькофф",
+    "alternate_url": "https://hh.ru/employer/78638"
+  },
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 220000,
+    "to": 300000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "address": {
+    "city": "Москва"
+  },
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "description": "<p><strong>Обязанности:</strong></p><ul><li>Разработка и поддержка Java backend-сервисов на базе Spring.</li><li>Проектирование REST API, работа с PostgreSQL и Hibernate.</li><li>Участие в код-ревью, написание юнит-тестов.</li><li>Интеграция со смежными командами и внешними API.</li></ul><p><strong>Требования:</strong></p><ul><li>Коммерческий опыт Java от 3 лет.</li><li>Spring Boot, Hibernate, PostgreSQL, Docker.</li><li>Понимание принципов микросервисной архитектуры.</li></ul>",
+  "key_skills": [
+    { "name": "Java" },
+    { "name": "Spring Boot" },
+    { "name": "Hibernate" },
+    { "name": "PostgreSQL" },
+    { "name": "Docker" }
+  ]
+}

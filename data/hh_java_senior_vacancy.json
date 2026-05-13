@@ -1,0 +1,45 @@
+{
+  "id": "105478623",
+  "name": "Senior Java Backend Developer",
+  "alternate_url": "https://hh.ru/vacancy/105478623",
+  "employer": {
+    "id": "1740",
+    "name": "Яндекс",
+    "alternate_url": "https://hh.ru/employer/1740"
+  },
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 320000,
+    "to": 450000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "address": {
+    "city": "Москва"
+  },
+  "experience": {
+    "id": "moreThan6",
+    "name": "Более 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "description": "<p><strong>Обязанности:</strong></p><ul><li>Разработка высоконагруженных Java backend-сервисов на базе Spring Boot и Kafka.</li><li>Проектирование микросервисной архитектуры с использованием Docker и Kubernetes.</li><li>Участие в архитектурных решениях, код-ревью, менторинг младших разработчиков.</li><li>Оптимизация производительности SQL-запросов и работа с PostgreSQL.</li></ul><p><strong>Требования:</strong></p><ul><li>Опыт коммерческой разработки на Java от 6 лет.</li><li>Уверенное знание Spring Boot, Spring Security, Hibernate.</li><li>PostgreSQL, Kafka, Docker, микросервисная архитектура.</li><li>Опыт проектирования REST API и работы с CI/CD.</li></ul>",
+  "key_skills": [
+    { "name": "Java" },
+    { "name": "Spring Boot" },
+    { "name": "PostgreSQL" },
+    { "name": "Kafka" },
+    { "name": "Docker" },
+    { "name": "Microservices" }
+  ]
+}

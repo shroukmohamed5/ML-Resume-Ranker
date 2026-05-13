@@ -1,0 +1,202 @@
+{
+  "vacancy": {
+    "title": "Java Developer (Junior)",
+    "description": "Ищем Junior Java разработчика для работы с микросервисами, Spring Boot, PostgreSQL.",
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "PostgreSQL",
+      "SQL",
+      "Git",
+      "ООП"
+    ],
+    "required_experience_years": 1,
+    "location": "Москва"
+  },
+  "execution_time_sec": 0.0,
+  "human_model_agreement_pct": 80.0,
+  "matches": 16,
+  "total": 20,
+  "results": [
+    {
+      "rank_model": 1,
+      "resume_id": "3d17b235000695728d0039ed1f776b44374542",
+      "position": "Java Разработчик",
+      "human_score": 3,
+      "model_score": 0.7933,
+      "model_label": 3,
+      "match": "✅"
+    },
+    {
+      "rank_model": 2,
+      "resume_id": "65eb6bd600033dfd4b0039ed1f455454644347",
+      "position": "Программист Java",
+      "human_score": 1,
+      "model_score": 0.7517,
+      "model_label": 3,
+      "match": "❌"
+    },
+    {
+      "rank_model": 3,
+      "resume_id": "cba795ad00020f46330039ed1f6970484f5446",
+      "position": "Java-программист",
+      "human_score": 1,
+      "model_score": 0.689,
+      "model_label": 3,
+      "match": "❌"
+    },
+    {
+      "rank_model": 4,
+      "resume_id": "66c9b2f10001d1ada30039ed1f794652416871",
+      "position": "Разработчик Lotus Notes/Domino",
+      "human_score": 1,
+      "model_score": 0.6267,
+      "model_label": 3,
+      "match": "❌"
+    },
+    {
+      "rank_model": 5,
+      "resume_id": "55efb3b00001d871070039ed1f69736772496a",
+      "position": "Преподаватель английского языка",
+      "human_score": 0,
+      "model_score": 0.6267,
+      "model_label": 3,
+      "match": "❌"
+    },
+    {
+      "rank_model": 6,
+      "resume_id": "5157873900000061200039ed1f736563726574",
+      "position": "Программист/ведущий инженер",
+      "human_score": 1,
+      "model_score": 0.585,
+      "model_label": 2,
+      "match": "✅"
+    },
+    {
+      "rank_model": 7,
+      "resume_id": "2c650c9600018468740039ed1f514435394d53",
+      "position": "Программист Java",
+      "human_score": 2,
+      "model_score": 0.385,
+      "model_label": 1,
+      "match": "✅"
+    },
+    {
+      "rank_model": 8,
+      "resume_id": "290a43bc0001985d4e0039ed1f6d4a396b6668",
+      "position": "Оператор ПК, оператор БД",
+      "human_score": 0,
+      "model_score": 0.385,
+      "model_label": 1,
+      "match": "✅"
+    },
+    {
+      "rank_model": 9,
+      "resume_id": "9101303d00082fc9500039ed1f324759774b59",
+      "position": "Тестировщик ПО",
+      "human_score": 1,
+      "model_score": 0.3517,
+      "model_label": 1,
+      "match": "✅"
+    },
+    {
+      "rank_model": 10,
+      "resume_id": "cb06cf4c0008d749950039ed1f56304c68645a",
+      "position": "Аналитик SQL",
+      "human_score": 1,
+      "model_score": 0.31,
+      "model_label": 1,
+      "match": "✅"
+    },
+    {
+      "rank_model": 11,
+      "resume_id": "b232f1510007287cc10039ed1f4a3866707a57",
+      "position": "ИТ-специалист",
+      "human_score": 1,
+      "model_score": 0.31,
+      "model_label": 1,
+      "match": "✅"
+    },
+    {
+      "rank_model": 12,
+      "resume_id": "fc22b2080007dee8ba0039ed1f4a7938685336",
+      "position": "Репетитор в старших классах по ма",
+      "human_score": 0,
+      "model_score": 0.2982,
+      "model_label": 1,
+      "match": "✅"
+    },
+    {
+      "rank_model": 13,
+      "resume_id": "825aa1b300070392790039ed1f335966455656",
+      "position": "Агент по недвижимости",
+      "human_score": 0,
+      "model_score": 0.2982,
+      "model_label": 1,
+      "match": "✅"
+    },
+    {
+      "rank_model": 14,
+      "resume_id": "c59fac8c00009f70f70039ed1f736563726574",
+      "position": "Automation PLC Engineer",
+      "human_score": 0,
+      "model_score": 0.2856,
+      "model_label": 1,
+      "match": "✅"
+    },
+    {
+      "rank_model": 15,
+      "resume_id": "5c3660a7000002124f0039ed1f736563726574",
+      "position": "Аналитик",
+      "human_score": 1,
+      "model_score": 0.2475,
+      "model_label": 1,
+      "match": "✅"
+    },
+    {
+      "rank_model": 16,
+      "resume_id": "ce78167c000012630c0039ed1f736563726574",
+      "position": "программист-аналитик",
+      "human_score": 1,
+      "model_score": 0.237,
+      "model_label": 1,
+      "match": "✅"
+    },
+    {
+      "rank_model": 17,
+      "resume_id": "7caf01b400042a057d0039ed1f386d55754554",
+      "position": "TeamLead/TechLead",
+      "human_score": 2,
+      "model_score": 0.2103,
+      "model_label": 1,
+      "match": "✅"
+    },
+    {
+      "rank_model": 18,
+      "resume_id": "0b9b0a4e000224b0070039ed1f6e6d49524448",
+      "position": "Менеджер IT-проектов",
+      "human_score": 0,
+      "model_score": 0.0274,
+      "model_label": 0,
+      "match": "✅"
+    },
+    {
+      "rank_model": 19,
+      "resume_id": "29e71de9000551a68a0039ed1f73596b6e6a58",
+      "position": "Директор отдела прибыли",
+      "human_score": 1,
+      "model_score": 0.0264,
+      "model_label": 0,
+      "match": "✅"
+    },
+    {
+      "rank_model": 20,
+      "resume_id": "394008e200000733e40039ed1f736563726574",
+      "position": "Project manager",
+      "human_score": 0,
+      "model_score": 0.0243,
+      "model_label": 0,
+      "match": "✅"
+    }
+  ]
+}

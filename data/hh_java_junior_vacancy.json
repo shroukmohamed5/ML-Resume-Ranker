@@ -1,0 +1,44 @@
+{
+  "id": "101547832",
+  "name": "Java Developer (Junior)",
+  "alternate_url": "https://hh.ru/vacancy/101547832",
+  "employer": {
+    "id": "1455",
+    "name": "Сбербанк",
+    "alternate_url": "https://hh.ru/employer/1455"
+  },
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 120000,
+    "to": 180000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "address": {
+    "city": "Москва"
+  },
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "description": "<p><strong>Обязанности:</strong></p><ul><li>Разработка backend-сервисов на Java под руководством старших разработчиков.</li><li>Поддержка REST API, написание SQL-запросов.</li><li>Работа с Git, участие в код-ревью.</li></ul><p><strong>Требования:</strong></p><ul><li>Базовый коммерческий опыт Java (от 1 года).</li><li>Знание Spring Boot, SQL, Git, REST API.</li><li>Понимание основ ООП и паттернов проектирования.</li></ul>",
+  "key_skills": [
+    { "name": "Java" },
+    { "name": "Spring Boot" },
+    { "name": "SQL" },
+    { "name": "Git" },
+    { "name": "REST API" }
+  ]
+}

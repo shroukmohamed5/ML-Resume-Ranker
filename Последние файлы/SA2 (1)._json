@@ -1,0 +1,218 @@
+{
+  "personal_info": {
+    "basic_info": {
+      "full_name": "Зимаков Максим Александрович",
+      "gender": "Мужчина",
+      "age": 23,
+      "birth_date": "01.02.2002"
+    },
+    "contacts": {
+      "phones": [
+        {
+          "number": "+7 (915) 5248834",
+          "type": "other",
+          "comment": "предпочитаемый способ связи  •  комментарий"
+        },
+        {
+          "number": "+7 (915) 5248834",
+          "type": "home",
+          "comment": "Домашний телефон комментарий"
+        },
+        {
+          "number": "+7 (915) 5248834",
+          "type": "work",
+          "comment": "Рабочий телефон комментарий"
+        }
+      ],
+      "email": "max-zima20@mail.ru",
+      "skype": "скайп",
+      "social_links": {
+        "Free-lance": "https://fl.ru/users/",
+        "LinkedIn": "https://www.linkedin.com/",
+        "LiveJournal": "https://www.livejournal.com/",
+        "Мой круг": "https://career.habr.com/salaries",
+        "Другой сайт": "https://other.ru/"
+      }
+    },
+    "location": {
+      "city": "Белгород",
+      "citizenship": [
+        "Россия",
+        "Босния и Герцеговина",
+        "Демократическая Республика Конго"
+      ],
+      "work_permits": [
+        "Россия",
+        "Багамские Острова",
+        "Узбекистан"
+      ]
+    },
+    "relocation": {
+      "willingness": "Готов к переезду",
+      "preferred_regions": [],
+      "business_trips": "Готов к командировкам"
+    }
+  },
+  "desired_position": {
+    "title": "Аналитик",
+    "specializations": [
+      "BI-аналитик"
+    ],
+    "employment": [],
+    "work_schedule": [],
+    "commute_time": "",
+    "salary": {
+      "original": "200 000₽",
+      "converted_rub": 200000
+    }
+  },
+  "experience": {
+    "total_experience": "6 лет 6 месяцев",
+    "experience": [
+      {
+        "period": [
+          "Март 2020 — настоящее время"
+        ],
+        "duration": [
+          "5 лет 4 месяца"
+        ],
+        "company": "Навазние компании",
+        "location": "",
+        "website": "",
+        "industry": [],
+        "position": "Доолжность",
+        "description": [
+          "описание"
+        ]
+      },
+      {
+        "period": [
+          "Январь 2017 — Февраль 2018"
+        ],
+        "duration": [
+          "1 год 2 месяца"
+        ],
+        "company": "Biglion",
+        "location": "Россия",
+        "website": "www.biglion.ru",
+        "industry": [
+          {
+            "sector": "Информационные технологии, системная интеграция, интернет",
+            "subsectors": [
+              "Интернет-компания (поисковики, платежные системы, соц.сети, информационно-познавательные и развлекательные ресурсы, продвижение сайтов и прочее)",
+              "Разработка программного обеспечения"
+            ]
+          }
+        ],
+        "position": "Диреткор",
+        "description": [
+          "коммент"
+        ]
+      }
+    ]
+  },
+  "education": {
+    "highest_level": "Доктор наук",
+    "educations": [
+      {
+        "institution": "Учебное заведение 3",
+        "year": "2023",
+        "faculty": "Факультет 3",
+        "specialization": "Специализация 3"
+      },
+      {
+        "institution": "Учебное заведение 2",
+        "year": "2022"
+      },
+      {
+        "institution": "Учебное заведение 1",
+        "year": "2020",
+        "faculty": "Факультет 1",
+        "specialization": "Специализация 1"
+      }
+    ]
+  },
+  "qualification_courses": [
+    {
+      "title": "Повышение квалификации  1",
+      "organization": "Огранизация",
+      "specialization": "специаплизацияч",
+      "year": "2024"
+    },
+    {
+      "title": "Повышение квалификации  2",
+      "organization": "Проводившая организация",
+      "specialization": "",
+      "year": "2020"
+    }
+  ],
+  "tests_exams": [
+    {
+      "title": "Тесты пройденные навзание",
+      "organization": "Организацияч проводившая тетсирвоание",
+      "specialization": "специализация тетсирвоания",
+      "year": "2023"
+    },
+    {
+      "title": "Название",
+      "organization": "Название",
+      "specialization": "",
+      "year": "2023"
+    }
+  ],
+  "electronic_certificates": [
+    {
+      "title": "Электронный сертефикат",
+      "year": "2024",
+      "other": ""
+    },
+    {
+      "title": "Навзание",
+      "year": "2020",
+      "other": ""
+    }
+  ],
+  "skills": {
+    "languages": [
+      {
+        "name": "Русский",
+        "level": "Родной"
+      },
+      {
+        "name": "Английский",
+        "level": "B2"
+      }
+    ],
+    "skills": [
+      "Аналитика",
+      "MS PowerPoint",
+      "Python",
+      "Работа с базами данных"
+    ]
+  },
+  "driving_experience": {
+    "has_car": "Имеется собственный автомобиль",
+    "licenses": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "BE",
+      "CE",
+      "DE",
+      "TM",
+      "TB"
+    ]
+  },
+  "additional_info": {
+    "about_me": "обо мне 0,0,",
+    "recommendations": [
+      {
+        "organization": "Организация рекомендующего",
+        "name": "ФИО рекомендующего",
+        "position": "Должность рекомендующего"
+      }
+    ]
+  }
+}
